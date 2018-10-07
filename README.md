@@ -15,7 +15,7 @@ Once you have created both of these, you need to create an "auth.json" file at t
 
 After that is done, start your bot (```npm start```) and invite it to your server:
 
-https://discordapp.com/oauth2/authorize?&client_id=<app client id>&scope=bot&permissions=67584
+https://discordapp.com/oauth2/authorize?&client_id=&lt;app client id&gt;&scope=bot&permissions=67584
 
 Commands you can use:
 
